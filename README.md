@@ -5,7 +5,11 @@
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+<img width="2446" height="1840" alt="CleanShot 2026-01-28 at 22 32 15@2x" src="https://github.com/user-attachments/assets/e391ee4f-0dfa-4fce-b528-ce46155e02d7" />
+<img width="2446" height="1840" alt="CleanShot 2026-01-28 at 22 32 52@2x" src="https://github.com/user-attachments/assets/091ef647-1ab6-48cd-bea8-b9715282a285" />
+<img width="2446" height="1840" alt="CleanShot 2026-01-28 at 22 33 44@2x" src="https://github.com/user-attachments/assets/28e94d69-1c27-42c0-85e0-ab29444121b0" />
+
+
 
 ## About
 
